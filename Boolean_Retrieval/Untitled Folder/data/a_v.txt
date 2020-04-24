@@ -1,0 +1,6 @@
+As you all must be aware, to fight against the spread of COVID19, our Honourable Prime Minister Narendra Modi has announced #JanataCurfew (social distancing by staying in your house and not going out anywhere) on 22nd March (Sunday).
+ 
+Analytics Vidhya whole-heartedly supports this initiative and invites every data science aspirant and professional to stay at home and participate in the Janata Hack - a knowledge competition on Machine Learning & Data Science on 22nd March 2020 from 0700 hrs to 2100 hrs IST in support of the Janata Curfew.
+The Coronavirus pandemic is going to affect businesses across the world. Large companies are likely to suffer loss in revenue, which would eventually lead to job cuts. However, the large IT firms have good news for their employees; many of these companies are pledging no layoffs for 2020.
+
+Salesforce CEO recently pledged no significant layoffs for the next 90 days. On his Twitter account, Salesforce CEO Marc Benioff published a statement. He clarified that there will be no significant layoffs in the next three months. He also urged the senior leadership to do their part by helping workers keep their jobs.
